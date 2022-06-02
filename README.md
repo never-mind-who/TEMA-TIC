@@ -15,5 +15,6 @@ Love ❌ code ✅
 ## <a id="changelog"></a>💭 〢 ChangeLog
 
 ```diff
+v1.1 - final commit - added music :)
 v1.0 - intial commit - probably the last one
 ```
