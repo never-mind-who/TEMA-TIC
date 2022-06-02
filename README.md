@@ -16,8 +16,4 @@ Love ❌ code ✅
 
 ```diff
 v1.0 - intial commit - probably the last one
-
-
-
-
 ```
